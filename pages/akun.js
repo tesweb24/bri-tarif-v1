@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../public/img.jpg';
 import SiteImage from '../components/SiteImage'
-import Link from 'next/link';
+import Link from 'next/link';https://brimo.bri.co.id/app/login
 
 function Akun() {
     return (
@@ -22,7 +22,7 @@ function Akun() {
                         <p className='text text-biru' style={{marginTop:'1.2em', cursor:'pointer'}}>
                             Belum punya Akun
                         </p>
-                    </Link>
+                    </Link>https://brimo.bri.co.id/app/login
 
                 </div>
             </div>
